@@ -1,0 +1,55 @@
+body{
+    font-family: 'Comfortaa', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 20px;
+}
+img{
+    width: 20px;
+    height: 700px;
+}
+.mba{
+    margin-top: 50px;
+    margin-left: 15px;
+}
+.slide{
+
+    padding-bottom: 20px;
+    width: 40%;
+}
+.carousel-inner{
+    
+}
+.carousel{
+    position: relative;
+    left: 570px;
+    
+    margin-top: 30px;
+}
+.form-control{
+    width: 45%;
+}
+.container-mini{
+    background-color: rgb(231, 229, 229);
+}
+h1{
+    color: rgba(46, 46, 46, 0.575);
+   
+}
+.accordion-button{
+    background: rgb(252, 225, 225);
+}
+.accordion-collapse{
+    background: rgb(193, 193, 255);
+    
+}
+.zahotel{
+    font-size: 11px;
+}
+@media screen (max-width: 425px) {
+    .carousel{
+        left:70px;
+    }
+}
